@@ -1,6 +1,5 @@
 # BTTAIFinalProject
-
-## This project is a Machine Learning project predicting the reviews from guests based on airbnb features 
+ This project is a Machine Learning project predicting the reviews from guests based on airbnb features 
 
 ## Objectives
 - Frame the review score prediction as a supervised regression problem.
