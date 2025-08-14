@@ -31,7 +31,7 @@ This project is a Machine Learning model that predicts Airbnb property review sc
 - **Test RMSE**: ~0.209
 - **Test R²**: ~0.833
 
-## Repository Link
+
 
 
 
